@@ -245,6 +245,9 @@
     font-size: 40px;
     margin: 5px 0;
   }
+img{
+    background-size: cover;
+}
   
   /* Linear Gradient */
   .home .home-content .text-3 span {
